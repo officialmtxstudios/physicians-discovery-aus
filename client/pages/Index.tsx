@@ -16,9 +16,9 @@ export default function Index() {
       <ArticleHeader />
 
       <ArticleHeadline
-        title="The Art of Living Well"
-        subheadline="Discover the principles and practices that transform ordinary lives into extraordinary journeys of purpose and fulfillment."
-        authorName="Sarah Mitchell"
+        title="After 20 Years Treating Women's Hormonal Changes, I Finally Understand Why Lower Belly Fat Won't Budge—And How Women Are Losing Inches In Just 8 Weeks Without Restrictive Diets"
+        subheadline="A board-certified physician reveals the metabolic mechanism behind stubborn lower belly resistance and the tissue reactivation approach that's finally creating results."
+        authorName="Sarah Mitchell, MD"
         authorImage="https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=96&h=96&fit=crop"
         date="December 29, 2024"
       />
