@@ -866,13 +866,15 @@ export default function Index() {
           </p>
           <p>And that's exactly what this technology addresses.</p>
           <p>
-            You still need to maintain healthy habits. You still need to be
-            patient (most of the women saw noticeable changes between weeks 4-8,
-            with continued improvement through week 12).
+            You still need to maintain healthy habits.
           </p>
           <p>
-            But those habits will finally work with you instead of against
-            silent tissue.
+            You still need to be patient (most of the women saw noticeable changes
+            between weeks 4-8, with continued improvement through week 12).
+          </p>
+          <p>
+            But those habits will finally work with you instead of against silent
+            tissue.
           </p>
         </TextSection>
 
@@ -884,36 +886,51 @@ export default function Index() {
           <p>But ReSculpt is different for three reasons:</p>
           <h3>1. The mechanism is scientifically sound.</h3>
           <p>
-            Multi-Layer Stimulation isn't new technology—it's been used in
-            clinical settings for neuromuscular re-education and post-surgical
-            rehabilitation for years. This device makes it accessible for
-            at-home use.
+            Multi-Layer Stimulation isn't new technology.
           </p>
+          <p>
+            It's been used in clinical settings for neuromuscular re-education and
+            post-surgical rehabilitation for years.
+          </p>
+          <p>This device makes it accessible for at-home use.</p>
           <h3>
             2. It's non-invasive with no contraindications, and it offers a
             proper clinical trial period.
           </h3>
           <p>
-            Unlike injections, surgery, or even some aggressive manual
-            therapies, this has an extremely low risk profile. The worst case
-            scenario is it doesn't work for you—and they offer a 100-day
-            money-back guarantee for exactly that reason.
+            Unlike injections, surgery, or even some aggressive manual therapies,
+            this has an extremely low risk profile.
+          </p>
+          <p>
+            The worst case scenario is it doesn't work for you.
+          </p>
+          <p>
+            And they offer a 100-day money-back guarantee for exactly that
+            reason.
           </p>
           <p>Why 100 days specifically?</p>
           <p>
-            Because tissue reactivation isn't instant. It takes 4-6 weeks of
-            consistent use for metabolically dormant tissue to "wake up" and
-            start responding to signals again.
+            Because tissue reactivation isn't instant.
+          </p>
+          <p>
+            It takes 4-6 weeks of consistent use for metabolically dormant tissue
+            to "wake up" and start responding to signals again.
           </p>
           <p>
             A 30-day guarantee wouldn't be enough time to see if your tissue
-            reactivates. 100 days is a genuine clinical trial period.
+            reactivates.
           </p>
+          <p>100 days is a genuine clinical trial period.</p>
           <h3>3. It addresses the actual problem, not the symptom.</h3>
           <p>
-            Most treatments try to burn fat or tighten skin. This reactivates
-            tissue metabolism. Once the tissue is awake again, your body can do
-            what it's supposed to do naturally.
+            Most treatments try to burn fat or tighten skin.
+          </p>
+          <p>
+            This reactivates tissue metabolism.
+          </p>
+          <p>
+            Once the tissue is awake again, your body can do what it's supposed to
+            do naturally.
           </p>
         </TextSection>
 
