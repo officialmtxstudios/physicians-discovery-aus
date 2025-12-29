@@ -447,12 +447,6 @@ export default function Index() {
           alt="Woman in warrior pose demonstrating core strength and engagement"
         />
 
-        {/* IMAGE 10 */}
-        <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6ad58a7d56d5413b9bc40c7aef168266"
-          alt="Woman in fitness pose showing toned abdomen and strength"
-        />
-
         {/* Linda Notes */}
         <TextSection>
           <p>
