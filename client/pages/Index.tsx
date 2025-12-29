@@ -688,10 +688,21 @@ export default function Index() {
           </p>
         </TextSection>
 
-        {/* IMAGE 15 */}
-        <ImageSection
-          src="https://images.unsplash.com/photo-1576091160641-112173f31c77?w=1200&q=80"
+        {/* IMAGE 15 - Clinical research and evidence */}
+        <img
+          loading="lazy"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbe9c7a0950fb4beeaa0dbc89ab323ff2"
           alt="Clinical research and evidence"
+          style={{
+            aspectRatio: "1.78",
+            objectFit: "cover",
+            objectPosition: "center",
+            width: "100%",
+            marginTop: "20px",
+            minHeight: "20px",
+            minWidth: "20px",
+            overflow: "hidden",
+          }}
         />
 
         {/* A Note on Availability */}
@@ -770,10 +781,21 @@ export default function Index() {
           </p>
         </TextSection>
 
-        {/* IMAGE 16 */}
-        <ImageSection
-          src="https://images.unsplash.com/photo-1576091160642-112173f31c77?w=1200&q=80"
+        {/* IMAGE 16 - Final message and encouragement */}
+        <img
+          loading="lazy"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558"
           alt="Final message and encouragement"
+          style={{
+            aspectRatio: "1.78",
+            objectFit: "cover",
+            objectPosition: "center",
+            width: "100%",
+            marginTop: "20px",
+            minHeight: "20px",
+            minWidth: "20px",
+            overflow: "hidden",
+          }}
         />
 
         {/* Secondary CTA Section */}
