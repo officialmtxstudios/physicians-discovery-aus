@@ -212,7 +212,7 @@
 
 /* CTA Section */
 .cta-section {
-  @apply w-full bg-white py-12 sm:py-16 px-4 sm:px-6;
+  @apply w-full bg-white py-8 sm:py-10 px-4 sm:px-6;
 }
 
 .cta-container {
