@@ -171,8 +171,8 @@ export default function Index() {
 
         {/* IMAGE 5 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160631-112173f31c77?w=1200&q=80"
-          alt="Failed approaches illustration"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fe10d571a4b6a4ea087407f1d43f60b77?format=webp&width=1200"
+          alt="Woman performing stretching and core engagement exercises"
         />
 
         {/* The Missing Link */}
