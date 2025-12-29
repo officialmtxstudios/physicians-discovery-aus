@@ -20,7 +20,7 @@ export default function Index() {
         subheadline="Board-Certified Physician Studying Women's Metabolic Health"
         authorName="Sarah Mitchell, MD"
         authorImage="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb8545eecc8404b2d9d48161b6e183bed?format=webp&width=96"
-        date="December 29, 2024"
+        date="December 29, 2025"
       />
 
       <main className="article-main">
