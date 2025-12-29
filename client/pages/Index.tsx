@@ -576,10 +576,13 @@ export default function Index() {
         <TextSection>
           <p>
             <strong>My notes:</strong> When I talked with Linda at week 8, the
-            fascial tissue had noticeably improved in mobility. The "stuck"
-            quality was gone. Her transverse abdominis engagement was visibly
-            stronger. The tissue had quite literally woken back up.
+            fascial tissue had noticeably improved in mobility.
           </p>
+          <p>
+            The "stuck" quality was gone. Her transverse abdominis engagement was
+            visibly stronger.
+          </p>
+          <p>The tissue had quite literally woken back up.</p>
         </TextSection>
 
         {/* Case Example 2: Patricia */}
@@ -645,11 +648,18 @@ export default function Index() {
         <TextSection>
           <p>
             <strong>My notes:</strong> Patricia's case was particularly
-            interesting because her weight remained stable throughout. This
-            wasn't fat loss—it was tissue reactivation. The area became more
-            metabolically active, the fascia regained mobility, and the muscle
-            was able to properly engage again. The "pouch" appearance diminished
-            significantly without any weight change.
+            interesting because her weight remained stable throughout.
+          </p>
+          <p>
+            This wasn't fat loss—it was tissue reactivation.
+          </p>
+          <p>
+            The area became more metabolically active, the fascia regained
+            mobility, and the muscle was able to properly engage again.
+          </p>
+          <p>
+            The "pouch" appearance diminished significantly without any weight
+            change.
           </p>
         </TextSection>
 
