@@ -130,7 +130,7 @@
 
 @media (max-width: 640px) {
   .header-content {
-    background-color: #CCB0A4;
+    background-color: #ccb0a4;
   }
 }
 
@@ -214,7 +214,7 @@
 /* CTA Button */
 .cta-button {
   @apply inline-block px-8 sm:px-10 py-3 sm:py-4 text-white font-semibold rounded-sm text-base sm:text-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 no-underline;
-  background-color: #CCB0A4;
+  background-color: #ccb0a4;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 

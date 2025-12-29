@@ -5,9 +5,7 @@ interface TextSectionProps {
 export default function TextSection({ children }: TextSectionProps) {
   return (
     <section className="text-section">
-      <div className="text-content">
-        {children}
-      </div>
+      <div className="text-content">{children}</div>
     </section>
   );
 }
