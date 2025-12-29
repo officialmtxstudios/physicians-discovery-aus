@@ -207,11 +207,19 @@
 
 /* CTA Button */
 .cta-button {
-  @apply inline-block px-8 sm:px-10 py-3 sm:py-4 bg-gray-900 text-white font-semibold rounded-sm text-base sm:text-lg transition-colors duration-200 hover:bg-gray-800 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900;
+  @apply inline-block px-8 sm:px-10 py-3 sm:py-4 text-white font-semibold rounded-sm text-base sm:text-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-offset-2 no-underline;
+  background-color: #CCB0A4;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cta-button:hover {
+  background-color: #b8a08f;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .cta-button:active {
-  @apply bg-gray-700;
+  background-color: #a89080;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Editorial Footer */
