@@ -962,11 +962,16 @@ export default function Index() {
           </p>
           <p>Here's why I did that:</p>
           <p>
-            Most of the women who've had success with this device found it
-            through hours of late-night research, comparing devices, reading
-            reviews, second-guessing themselves. They told me they wished they'd
-            found it sooner—and wished they hadn't paid full price while they
-            were still skeptical.
+            Most of the women who've had success with this device found it through
+            hours of late-night research.
+          </p>
+          <p>
+            They were comparing devices, reading reviews, second-guessing
+            themselves.
+          </p>
+          <p>
+            They told me they wished they'd found it sooner—and wished they hadn't
+            paid full price while they were still skeptical.
           </p>
           <p>
             So I negotiated something I rarely do: a reduced introductory price
@@ -974,16 +979,25 @@ export default function Index() {
           </p>
           <p>Instead of the standard £99, you can get ReSculpt for £69.</p>
           <p>
-            That's £30 off, not because the device is discounted, but because
-            Ovaliss agreed that women dealing with metabolic tissue dormancy
-            shouldn't have to pay full price while they're still building belief
-            that their bodies can respond again.
+            That's £30 off, not because the device is discounted.
           </p>
           <p>
-            This pricing is only available through the link below, and I don't
-            know how long they'll maintain it. (They mentioned it's based on
-            current inventory levels, and once those units move, pricing returns
-            to standard.)
+            But because Ovaliss agreed that women dealing with metabolic tissue
+            dormancy shouldn't have to pay full price.
+          </p>
+          <p>
+            Not while they're still building belief that their bodies can respond
+            again.
+          </p>
+          <p>
+            This pricing is only available through the link below.
+          </p>
+          <p>
+            I don't know how long they'll maintain it.
+          </p>
+          <p>
+            (They mentioned it's based on current inventory levels, and once those
+            units move, pricing returns to standard.)
           </p>
           <p>
             <strong>Here's what you get:</strong>
@@ -1013,29 +1027,38 @@ export default function Index() {
         <TextSection>
           <h2>My Recommendation</h2>
           <p>
-            If your lower belly has been unresponsive despite your best
-            efforts—if you've felt that frustrating sense of "I'm doing
-            everything right, why isn't this area changing?"
+            If your lower belly has been unresponsive despite your best efforts.
           </p>
           <p>
-            You don't need another diet. You don't need more cardio. You don't
-            need to "try harder."
+            If you've felt that frustrating sense of "I'm doing everything right,
+            why isn't this area changing?"
           </p>
+          <p>You don't need another diet.</p>
+          <p>You don't need more cardio.</p>
+          <p>You don't need to "try harder."</p>
           <p>You need to wake up tissue that went dormant.</p>
           <p>
-            And that's exactly what ReSculpt is designed to do, all in the
-            comfort of your own home, on your own schedule.
+            And that's exactly what ReSculpt is designed to do, all in the comfort
+            of your own home, on your own schedule.
           </p>
           <p>
-            If it works, you'll know. The area will start feeling different
-            during core engagement. Then you'll start seeing changes in how
-            clothes fit. Then you'll see visible contour improvement.
+            If it works, you'll know.
           </p>
+          <p>
+            The area will start feeling different during core engagement.
+          </p>
+          <p>
+            Then you'll start seeing changes in how clothes fit.
+          </p>
+          <p>Then you'll see visible contour improvement.</p>
           <p>If it doesn't work, you return it. No risk.</p>
           <p>
             But based on what I've seen in my office, and based on the mechanism
-            itself, I believe any woman dealing with post-hormonal lower belly
-            resistance will see meaningful improvement.
+            itself...
+          </p>
+          <p>
+            I believe any woman dealing with post-hormonal lower belly resistance
+            will see meaningful improvement.
           </p>
           <p>Because the problem was never willpower.</p>
           <p>It was tissue that needed to be brought back online.</p>
