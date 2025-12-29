@@ -325,8 +325,8 @@ export default function Index() {
 
         {/* IMAGE 8 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160634-112173f31c77?w=1200&q=80"
-          alt="Professional clinic technology"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Ffa9ecb62786a4be799d72b170611ec23"
+          alt="Professional body sculpting clinic with advanced equipment"
         />
 
         {/* Clinic Cost Explanation */}
