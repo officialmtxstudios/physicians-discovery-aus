@@ -116,8 +116,8 @@ export default function Index() {
 
         {/* IMAGE 4 */}
         <ImageSection
-          src="https://images.unsplash.com/photo-1576091160630-112173f31c77?w=1200&q=80"
-          alt="Metabolic dormancy visualization"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F06cf901212b0400c89f0093c78cd5f7c?format=webp&width=1200"
+          alt="Healthy tissue versus dormant tissue comparison diagrams"
         />
 
         {/* Result Section */}
