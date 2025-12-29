@@ -331,3 +331,12 @@
 .article-main {
   @apply flex-1 w-full;
 }
+
+/* Responsive margins for inline images in article */
+@media (min-width: 768px) {
+  .article-main img[srcset] {
+    margin-left: 64px;
+    margin-right: 64px;
+    width: calc(100% - 128px);
+  }
+}
