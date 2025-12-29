@@ -16,7 +16,7 @@ export default function Index() {
       <ArticleHeader />
 
       <ArticleHeadline
-        title="After 20 Years Treating Women's Hormonal Changes, I Finally Understand Why Lower Belly Fat Won't Budge—And How Women Are Losing Inches In Just 8 Weeks Without Restrictive Diets"
+        title="After 20 Years Treating Women's Hormonal Changes, I Finally Understand Why Pooch Fat Won't Budge—And How Women Are Losing Inches In 8 Weeks Without Restrictive Diets"
         subheadline="Board-Certified Physician Studying Women's Metabolic Health"
         authorName="Sarah Mitchell, MD"
         authorImage="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb8545eecc8404b2d9d48161b6e183bed?format=webp&width=96"
