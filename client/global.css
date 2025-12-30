@@ -198,7 +198,7 @@
 }
 
 .text-content p {
-  @apply mb-3 sm:mb-4 text-xl sm:text-2xl leading-relaxed;
+  @apply mb-5 sm:mb-6 text-xl sm:text-2xl leading-relaxed;
 }
 
 .text-content ul,
