@@ -481,6 +481,23 @@ export default function Index() {
           <p>It's the same science, evolved for accessibility.</p>
         </TextSection>
 
+        {/* IMAGE - Before What I Started Seeing Repeatedly */}
+        <img
+          loading="lazy"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7c43f1d3e494816871f4590551c880a"
+          alt="Patient testimonial results"
+          style={{
+            aspectRatio: "1.78",
+            objectFit: "cover",
+            objectPosition: "center",
+            width: "100%",
+            marginTop: "20px",
+            minHeight: "20px",
+            minWidth: "20px",
+            overflow: "hidden",
+          }}
+        />
+
         {/* What I Started Seeing Repeatedly */}
         <TextSection>
           <h2>What I Started Seeing Repeatedly</h2>
