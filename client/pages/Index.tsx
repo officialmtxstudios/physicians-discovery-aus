@@ -246,7 +246,7 @@ export default function Index() {
           <p>I was intrigued.</p>
           <p>As a physician, I'm deeply skeptical of at-home devices.</p>
           <p>Most of them are overpriced gimmicks that prey on desperate women.</p>
-          <p>But Jennifer's results were undeniable.</p>
+          <p><b>But Jennifer's results were undeniable.</b></p>
           <p>And when she explained the technology that she read about (Multi-Layer Stimulation Reset™) the mechanism made perfect sense.</p>
         </TextSection>
 
