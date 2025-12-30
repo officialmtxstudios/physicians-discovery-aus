@@ -482,21 +482,23 @@ export default function Index() {
         </TextSection>
 
         {/* IMAGE - Before What I Started Seeing Repeatedly */}
-        <img
-          loading="lazy"
-          src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbeaa732e2b924c2a95f0fa4581e0244f?alt=media&token=9e27985e-7950-4658-b834-a78d99c8dfef&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
-          alt="Patient testimonial results"
-          style={{
-            aspectRatio: "1",
-            objectFit: "cover",
-            objectPosition: "center",
-            width: "100%",
-            marginTop: "20px",
-            minHeight: "20px",
-            minWidth: "20px",
-            overflow: "hidden",
-          }}
-        />
+        <div className="w-full bg-white py-4 sm:py-6 px-4 sm:px-6 md:flex md:justify-center">
+          <img
+            loading="lazy"
+            src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbeaa732e2b924c2a95f0fa4581e0244f?alt=media&token=9e27985e-7950-4658-b834-a78d99c8dfef&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
+            alt="Patient testimonial results"
+            style={{
+              aspectRatio: "1",
+              objectFit: "cover",
+              objectPosition: "center",
+              width: "100%",
+              maxWidth: "48rem",
+              minHeight: "20px",
+              minWidth: "20px",
+              overflow: "hidden",
+            }}
+          />
+        </div>
 
         {/* What I Started Seeing Repeatedly */}
         <TextSection>
