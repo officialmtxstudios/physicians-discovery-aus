@@ -327,48 +327,24 @@ export default function Index() {
         {/* Clinic Cost Explanation */}
         <TextSection>
           <p>That's why clinics get results when everything else fails.</p>
-          <p>
-            Not because they have magic machines—but because they finally
-            addressed the actual problem.
-          </p>
-          <p>
-            Ten years ago, this level of multi-layer stimulation required
-            clinic-grade equipment.
-          </p>
-          <p>
-            It was expensive, immobile, and required trained operators and
-            multiple sessions at £300-£1,000 each.
-          </p>
-          <p>
-            But advances in tissue-penetration technology and frequency
-            modulation have changed everything.
-          </p>
-          <p>
-            The same three-layer stimulation can now be delivered in a device
-            you control at home.
-          </p>
+          <p>Not because they have magic machines—but because they finally addressed the actual problem.</p>
+          <p>Ten years ago, this level of multi-layer stimulation required clinic-grade equipment.</p>
+          <p>It was expensive, immobile, and required trained operators and multiple sessions at £300-£1,000 each.</p>
+          <p>But advances in tissue-penetration technology and frequency modulation have changed everything.</p>
+          <p>The same three-layer stimulation can now be delivered in a device you control at home.</p>
           <p>The mechanism is identical.</p>
           <p>The delivery system has simply become accessible.</p>
           <p>ReSculpt doesn't "replicate" clinic technology.</p>
-          <p>
-            It uses the same core principle that makes clinics work, now refined
-            for safe, consistent at-home use.
-          </p>
+          <p>It uses the same core principle that makes clinics work, now refined for safe, consistent at-home use.</p>
         </TextSection>
 
         {/* If This Really Worked Section */}
         <TextSection>
           <h2>"If This Really Worked, Wouldn't Doctors Be Doing It?"</h2>
           <p>This is the question I hear most often—and it's a fair one.</p>
-          <p>
-            Here's the truth: Doctors have recommended similar technology—they
-            just haven't been recommending at-home versions until recently.
-          </p>
+          <p>Here's the truth: Doctors have recommended similar technology—they just haven't been recommending at-home versions until recently.</p>
           <p>Why?</p>
-          <p>
-            Because until the last few years, at-home body devices fell into two
-            categories:
-          </p>
+          <p>Because until the last few years, at-home body devices fell into two categories:</p>
           <ul>
             <li>
               Surface-only stimulation (vibration belts, heated wraps) that
@@ -379,31 +355,16 @@ export default function Index() {
               but missed the fat and fascia layers entirely
             </li>
           </ul>
-          <p>
-            Neither could recreate true multi-layer stimulation. So doctors
-            rightfully remained skeptical of at-home devices—because most of
-            them didn't work.
-          </p>
+          <p>Neither could recreate true multi-layer stimulation.</p>
+          <p>So doctors rightfully remained skeptical of at-home devices—because most of them didn't work.</p>
           <p>What changed?</p>
-          <p>
-            Advances in frequency modulation technology now allow multiple
-            tissue-specific frequencies to be delivered simultaneously in a
-            compact device. This wasn't possible even five years ago.
-          </p>
-          <p>
-            ReSculpt is the first at-home device I've seen that delivers genuine
-            three-layer stimulation, the same mechanism clinics use.
-          </p>
+          <p>Advances in frequency modulation technology now allow multiple tissue-specific frequencies to be delivered simultaneously in a compact device.</p>
+          <p>This wasn't possible even five years ago.</p>
+          <p>ReSculpt is the first at-home device I've seen that delivers genuine three-layer stimulation, the same mechanism clinics use.</p>
           <p>Is it exactly identical to a £40,000 clinic machine? No.</p>
-          <p>
-            But does it deliver the core mechanism (multi-layer tissue
-            signaling) that makes clinic treatments effective? Yes.
-          </p>
-          <p>
-            And because you control the frequency and consistency at home, many
-            of the women I've recommended the device to actually see better
-            results than they did with sporadic clinic visits.
-          </p>
+          <p>But does it deliver the core mechanism (multi-layer tissue signaling) that makes clinic treatments effective?</p>
+          <p>Yes.</p>
+          <p>And because you control the frequency and consistency at home, many of the women I've recommended the device to actually see better results than they did with sporadic clinic visits.</p>
           <p>This isn't a "cheap alternative."</p>
           <p>It's the same science, evolved for accessibility.</p>
         </TextSection>
