@@ -25,7 +25,7 @@ export default function ArticleHeadline({
             <p className="article-date">{date}</p>
           </div>
         </div>
-        <p className="article-subheadline">{subheadline}</p>
+        {subheadline && <p className="article-subheadline">{subheadline}</p>}
       </div>
     </section>
   );
