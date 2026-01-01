@@ -264,7 +264,7 @@
 
 /* Article Headline Section */
 .article-headline {
-  @apply w-full bg-white py-6 sm:py-8 px-4 sm:px-6 border-b border-gray-200;
+  @apply w-full bg-white py-8 sm:py-10 px-4 sm:px-6 border-b border-gray-200;
 }
 
 .headline-content {
