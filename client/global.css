@@ -317,7 +317,7 @@
 .hero-image {
   @apply w-full h-auto object-cover object-center block;
   aspect-ratio: 1.5;
-  margin-top: 12px;
+  margin-top: 32px;
   min-height: 20px;
   min-width: 20px;
   overflow: hidden;
@@ -326,7 +326,7 @@
 @media (min-width: 768px) {
   .hero-image {
     max-width: 48rem;
-    margin: 12px auto 0;
+    margin: 32px auto 0;
   }
 }
 
