@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useState } from 'react';
 
 interface StickyCTAProps {
   triggerRef: React.RefObject<HTMLElement>;
@@ -10,28 +10,23 @@ export default function StickyCTA({ triggerRef, href, children }: StickyCTAProps
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        // Show sticky CTA when the trigger section is NOT visible (user has scrolled past it)
-        if (entries.length > 0) {
-          const isIntersecting = entries[0].isIntersecting;
-          setIsVisible(!isIntersecting);
-        }
-      },
-      {
-        threshold: 0,
-      }
-    );
+    const handleScroll = () => {
+      if (!triggerRef.current) return;
 
-    if (triggerRef.current) {
-      observer.observe(triggerRef.current);
-    }
+      const rect = triggerRef.current.getBoundingClientRect();
+      const triggerBottom = rect.bottom;
 
-    return () => {
-      if (triggerRef.current) {
-        observer.unobserve(triggerRef.current);
-      }
+      // Show sticky CTA only after user scrolls past the trigger section
+      // (when the bottom of the section is above the top of the viewport)
+      const isScrolledPast = triggerBottom < 0;
+      setIsVisible(isScrolledPast);
     };
+
+    window.addEventListener('scroll', handleScroll);
+    // Check on mount in case user has already scrolled past on page load
+    handleScroll();
+
+    return () => window.removeEventListener('scroll', handleScroll);
   }, [triggerRef]);
 
   if (!isVisible) {
