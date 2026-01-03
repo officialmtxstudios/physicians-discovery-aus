@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from "react";
 
 interface StickyCTAProps {
   triggerRef: React.RefObject<HTMLElement>;
@@ -6,7 +6,11 @@ interface StickyCTAProps {
   children: React.ReactNode;
 }
 
-export default function StickyCTA({ triggerRef, href, children }: StickyCTAProps) {
+export default function StickyCTA({
+  triggerRef,
+  href,
+  children,
+}: StickyCTAProps) {
   const [isVisible, setIsVisible] = useState(false);
 
   useEffect(() => {
@@ -22,11 +26,11 @@ export default function StickyCTA({ triggerRef, href, children }: StickyCTAProps
       setIsVisible(isScrolledPast);
     };
 
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener("scroll", handleScroll);
     // Check on mount in case user has already scrolled past on page load
     handleScroll();
 
-    return () => window.removeEventListener('scroll', handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
   }, [triggerRef]);
 
   if (!isVisible) {
