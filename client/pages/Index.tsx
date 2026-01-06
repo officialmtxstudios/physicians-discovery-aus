@@ -1073,7 +1073,7 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>ReSculpt device (£69 instead of £99)</li>
+            <li>ReSculpt device (£59 instead of £84)</li>
             <li>Free shipping</li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
