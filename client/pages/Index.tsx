@@ -579,7 +579,7 @@ export default function Index() {
 
         {/* What I Started Seeing Repeatedly */}
         <TextSection>
-          <h2>What I Started Seeing Repeatedly</h2>
+          <h2 ref={drMitchellSectionRef}>What I Started Seeing Repeatedly</h2>
           <p>
             After Jennifer's results, I couldn't stop thinking about the
             mechanism.
