@@ -474,7 +474,7 @@ export default function Index() {
           </p>
           <p>
             It was expensive, immobile, and required trained operators and
-            multiple sessions at £300-£1,000 each.
+            multiple sessions at $500-$2,000 AUD each.
           </p>
           <p>
             But advances in tissue-penetration technology and frequency
@@ -1071,7 +1071,7 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>ReSculpt device (£59 instead of £84)</li>
+            <li>ReSculpt device ($119 AUD instead of $169 AUD compare at price)</li>
             <li>Free shipping</li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
