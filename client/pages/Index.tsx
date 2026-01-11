@@ -401,8 +401,8 @@ export default function Index() {
             This is the same principle professional body sculpting clinics use.
           </p>
           <p>
-            They charge over $1,800 AUD per area because they understood the signaling
-            problem years before anyone else.
+            They charge over $1,800 AUD per area because they understood the
+            signaling problem years before anyone else.
           </p>
           <p>
             But the technology has advanced enough that this level of
@@ -419,13 +419,14 @@ export default function Index() {
         {/* Why Clinics Charge So Much */}
         <TextSection>
           <h2>
-            Why Clinics Charge over $4,000 AUD For This (And Why You Don't Have To)
+            Why Clinics Charge over $4,000 AUD For This (And Why You Don't Have
+            To)
           </h2>
           <p>Here's something most women don't realize:</p>
           <p>
             When you go to a professional body sculpting clinic and pay
-            $2,700-$5,400 AUD per treatment area, you need to understand what you're
-            actually paying for.
+            $2,700-$5,400 AUD per treatment area, you need to understand what
+            you're actually paying for.
           </p>
           <p>
             You're not paying for them to "work harder" on your fat or "burn
@@ -1048,7 +1049,10 @@ export default function Index() {
             specifically for readers of this article.
           </p>
           <p>
-            <b>Instead of the standard $169 AUD, you can get ReSculpt for just $119 AUD.</b>
+            <b>
+              Instead of the standard $169 AUD, you can get ReSculpt for just
+              $119 AUD.
+            </b>
           </p>
           <p>That's $50 off, not because the device is discounted.</p>
           <p>
@@ -1071,7 +1075,9 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>ReSculpt device ($119 <strike>$169</strike> AUD)</li>
+            <li>
+              ReSculpt device ($119 <strike>$169</strike> AUD)
+            </li>
             <li>Free shipping</li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
