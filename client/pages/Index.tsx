@@ -717,21 +717,17 @@ export default function Index() {
         {/* Case Example 3: Monica */}
         <TextSection>
           <h3>
-            Case Example #3: Monica, 47 – The "I've Tried Everything" Case
+            Case Example #3: Monica, 59 – The "I've Tried Everything" Case
           </h3>
           <p>Monica walked into my office with a list.</p>
           <p>
-            She'd tried: keto, intermittent fasting, Pilates, barre classes,
-            waist trainers, three different "belly-blasting" supplements, and
-            two rounds of CoolSculpting on her lower abdomen.
+            She'd tried: special arm exercises from YouTube, firming creams, collagen supplements, three different personal trainers, and even considered arm lift surgery.
           </p>
           <p>
-            "The CoolSculpting destroyed my savings and did absolutely nothing,"
-            she said, on the verge of tears.
+            "My surgeon quoted me $12,000," she said, nearly in tears. "I can't afford that. But I hate my arms so much I was considering it anyway."
           </p>
-          <p>"I don't understand what I'm doing wrong."</p>
           <p>
-            But at this point I already knew: she wasn't doing anything wrong.
+            Her arms weren't dramatically large—they were just loose, soft, and completely unresponsive to everything she'd tried.
           </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 15 minutes per day, 3
@@ -743,12 +739,12 @@ export default function Index() {
           <ul>
             <li>
               <strong>Week 4:</strong> "I almost quit because I wasn't seeing
-              anything. Then I put on a dress I wore last month and it fit way
-              better around my stomach."
+              anything. Then I put on a dress I wore last month and the sleeves fit way
+              better."
             </li>
             <li>
               <strong>Week 7:</strong> "My Pilates instructor asked what I
-              changed. She said my core engagement during class is noticeably
+              changed. She said my arm definition during class is noticeably
               stronger."
             </li>
             <li>
