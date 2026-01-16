@@ -596,42 +596,37 @@ export default function Index() {
 
         {/* Case Example 1: Linda */}
         <TextSection>
-          <h3>Case Example #1: Linda, 49 – Post-Hysterectomy "Pooch"</h3>
-          <p>Linda had a full hysterectomy at 46.</p>
+          <h3>Case Example #1: Linda, 62 – The "Bat Wings That Appeared Overnight"</h3>
+          <p>Linda had always been slim and active.</p>
+          <p>But around age 58, during menopause, her upper arms changed seemingly overnight.</p>
           <p>
-            Within six months, she developed what she called "the pooch that
-            appeared out of nowhere."
+            "I'd wave goodbye to someone and feel my arm keep moving," she told me, mortified. "I started wearing cardigans in 35-degree heat just to hide them."
           </p>
           <p>
-            She'd always been active—taught yoga, ate a predominantly
-            plant-based diet.
+            She'd been doing arm exercises with light weights three times per week. Her trainer kept telling her to "build more muscle."
           </p>
           <p>
-            But after surgery, her lower abdomen became soft, protruding, and
-            completely unresponsive to her normal routine.
+            But the sagging skin and jiggle only seemed to get worse.
           </p>
-          <p>"I can hold a plank for two minutes," she told me, frustrated.</p>
-          <p>"But my stomach still looks like this.</p>
-          <p>It doesn't make sense."</p>
+          <p>"I can feel the muscle underneath," she said, frustrated.</p>
+          <p>"But there's all this loose, wobbly stuff on top that won't budge."</p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 4
-            days per week, while continuing her regular yoga practice and diet.
+            days per week, while continuing her regular exercise routine.
           </p>
           <p>
             <strong>Timeline:</strong>
           </p>
           <ul>
             <li>
-              <strong>Week 2:</strong> "The area feels tighter when I engage my
-              core."
+              <strong>Week 2:</strong> "The area feels tighter when I flex my arm."
             </li>
             <li>
-              <strong>Week 5:</strong> "My yoga pants fit better. The bulge
-              isn't pushing against the waistband anymore."
+              <strong>Week 5:</strong> "My sister asked if I'd had surgery. I told her no, but I could see what she meant. The hanging part is less... droopy."
             </li>
             <li>
-              <strong>Week 8:</strong> "I measured. I'm down 2.5 inches around
-              my lower abdomen. Same weight. Same routine. Just... tighter."
+              <strong>Week 8:</strong> "I measured. I'm down 2 inches around
+              my upper arms. Same weight. Same routine. Just... firmer."
             </li>
           </ul>
         </TextSection>
@@ -645,11 +640,11 @@ export default function Index() {
         {/* Linda Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> When I talked with Linda at week 8, the
+            <strong>My notes:</strong> When I saw Linda at week 8, the
             fascial tissue had noticeably improved in mobility.
           </p>
           <p>
-            The "stuck" quality was gone. Her transverse abdominis engagement
+            The "bat wing" quality was significantly reduced. Her tricep engagement
             was visibly stronger.
           </p>
           <p>The tissue had quite literally woken back up.</p>
