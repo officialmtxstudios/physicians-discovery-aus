@@ -282,6 +282,12 @@ export default function Index() {
           </p>
         </TextSection>
 
+        {/* IMAGE 6 */}
+        <ImageSection
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F098e35ffc33748ff96ea4e95da4a5b83?format=webp&width=800"
+          alt="Patient and physician consultation"
+        />
+
         {/* Dr. Mitchell Discovery */}
         <TextSection>
           <h2>"Dr. Mitchell, I Think I Finally Found Something That Works"</h2>
@@ -453,7 +459,7 @@ export default function Index() {
 
         {/* IMAGE 8 */}
         <ImageSection
-          src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F4445763fa7864ea9b8265bbcd724e0a4?alt=media&token=024edbd1-f2af-4d78-8959-d9cd864baceb&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fdec4597a8ce54b489867f2526e1bba41?format=webp&width=800"
           alt="Professional body sculpting clinic with advanced equipment"
         />
 
