@@ -700,7 +700,7 @@ export default function Index() {
         {/* IMAGE 11 - Patricia's case example and results */}
         <img
           loading="lazy"
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F46e98fa574d449f08def2a9c8d8957c1?format=webp&width=800"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1033a1ad4f02404a8c74eaeb91218e9e?format=webp&width=800"
           alt="Patricia's case example and results"
           style={{
             aspectRatio: "1.78",
@@ -771,7 +771,7 @@ export default function Index() {
         <div className="image-section">
           <img
             loading="lazy"
-            src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F16179f77bb3b46df826aea5a4a1ac931?format=webp&width=800"
+            src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa55d724d6cb342099e242301fb3d9c2b?format=webp&width=800"
             alt="Monica's case example and results"
             style={{
               aspectRatio: "1.78",
