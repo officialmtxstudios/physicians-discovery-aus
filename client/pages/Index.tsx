@@ -85,7 +85,8 @@ export default function Index() {
             tissue changes) presented findings that made my stomach drop.
           </p>
           <p>
-            "The upper arm region doesn't just store fat differently after hormonal shifts," she explained.
+            "The upper arm region doesn't just store fat differently after
+            hormonal shifts," she explained.
           </p>
           <p>"It enters a state of metabolic hibernation."</p>
           <p>Not slower metabolism. Not stubborn fat.</p>
@@ -107,18 +108,17 @@ export default function Index() {
         {/* Why Your Lower Belly Stopped Responding */}
         <TextSection>
           <h2>
-            Why Your Upper Arms Stopped Responding (And Why It's Not Your
-            Fault)
+            Why Your Upper Arms Stopped Responding (And Why It's Not Your Fault)
           </h2>
           <p>
             Here's what's actually happening in that area—and why everything
             you've tried has failed:
           </p>
           <p>
-            When estrogen levels decline (whether from perimenopause, menopause, or age-related hormonal shifts),{" "}
+            When estrogen levels decline (whether from perimenopause, menopause,
+            or age-related hormonal shifts),{" "}
             <b>
-              three critical changes occur simultaneously in upper arm
-              tissue
+              three critical changes occur simultaneously in upper arm tissue
             </b>
             :
           </p>
@@ -134,8 +134,8 @@ export default function Index() {
           </p>
           <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
           <p>
-            The connective tissue (fascia) that surrounds your arm muscles
-            loses elasticity.
+            The connective tissue (fascia) that surrounds your arm muscles loses
+            elasticity.
           </p>
           <p>It stops gliding properly.</p>
           <p>
@@ -302,8 +302,7 @@ export default function Index() {
           <p>But tighter.</p>
           <p>More toned.</p>
           <p>
-            The loose, sagging quality of her upper arms had visibly
-            improved.
+            The loose, sagging quality of her upper arms had visibly improved.
           </p>
           <p>"What did you do?" I asked immediately.</p>
           <p>She pulled out a small rose-gold device from her bag.</p>
@@ -411,8 +410,8 @@ export default function Index() {
             This is the same principle professional body sculpting clinics use.
           </p>
           <p>
-            They charge $1,500+ per area because they understood the
-            signaling problem years before anyone else.
+            They charge $1,500+ per area because they understood the signaling
+            problem years before anyone else.
           </p>
           <p>
             But the technology has advanced enough that this level of
@@ -429,13 +428,13 @@ export default function Index() {
         {/* Why Clinics Charge So Much */}
         <TextSection>
           <h2>
-            Why Clinics Charge $3,000+ For This (And Why You Don't Have
-            To)
+            Why Clinics Charge $3,000+ For This (And Why You Don't Have To)
           </h2>
           <p>Here's something most women don't realize:</p>
           <p>
             When you go to a professional body sculpting clinic and pay
-            $2,000-$4,000 per treatment area, you're not paying for them to "work harder" on your fat or "burn more calories."
+            $2,000-$4,000 per treatment area, you're not paying for them to
+            "work harder" on your fat or "burn more calories."
           </p>
           <p>
             <b>You're paying for tissue re-signaling.</b>
@@ -479,7 +478,8 @@ export default function Index() {
             .
           </p>
           <p>
-            It was expensive, immobile, requiring trained operators and multiple sessions at $500-$1,500 each.
+            It was expensive, immobile, requiring trained operators and multiple
+            sessions at $500-$1,500 each.
           </p>
           <p>
             But advances in tissue-penetration technology and frequency
@@ -608,20 +608,28 @@ export default function Index() {
 
         {/* Case Example 1: Linda */}
         <TextSection>
-          <h3>Case Example #1: Linda, 62 – The "Bat Wings That Appeared Overnight"</h3>
+          <h3>
+            Case Example #1: Linda, 62 – The "Bat Wings That Appeared Overnight"
+          </h3>
           <p>Linda had always been slim and active.</p>
-          <p>But around age 58, during menopause, her upper arms changed seemingly overnight.</p>
           <p>
-            "I'd wave goodbye to someone and feel my arm keep moving," she told me, mortified. "I started wearing cardigans in 35-degree heat just to hide them."
+            But around age 58, during menopause, her upper arms changed
+            seemingly overnight.
           </p>
           <p>
-            She'd been doing arm exercises with light weights three times per week. Her trainer kept telling her to "build more muscle."
+            "I'd wave goodbye to someone and feel my arm keep moving," she told
+            me, mortified. "I started wearing cardigans in 35-degree heat just
+            to hide them."
           </p>
           <p>
-            But the sagging skin and jiggle only seemed to get worse.
+            She'd been doing arm exercises with light weights three times per
+            week. Her trainer kept telling her to "build more muscle."
           </p>
+          <p>But the sagging skin and jiggle only seemed to get worse.</p>
           <p>"I can feel the muscle underneath," she said, frustrated.</p>
-          <p>"But there's all this loose, wobbly stuff on top that won't budge."</p>
+          <p>
+            "But there's all this loose, wobbly stuff on top that won't budge."
+          </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 4
             days per week, while continuing her regular exercise routine.
@@ -631,14 +639,17 @@ export default function Index() {
           </p>
           <ul>
             <li>
-              <strong>Week 2:</strong> "The area feels tighter when I flex my arm."
+              <strong>Week 2:</strong> "The area feels tighter when I flex my
+              arm."
             </li>
             <li>
-              <strong>Week 5:</strong> "My sister asked if I'd had surgery. I told her no, but I could see what she meant. The hanging part is less... droopy."
+              <strong>Week 5:</strong> "My sister asked if I'd had surgery. I
+              told her no, but I could see what she meant. The hanging part is
+              less... droopy."
             </li>
             <li>
-              <strong>Week 8:</strong> "I measured. I'm down 2 inches around
-              my upper arms. Same weight. Same routine. Just... firmer."
+              <strong>Week 8:</strong> "I measured. I'm down 2 inches around my
+              upper arms. Same weight. Same routine. Just... firmer."
             </li>
           </ul>
         </TextSection>
@@ -652,26 +663,35 @@ export default function Index() {
         {/* Linda Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> When I saw Linda at week 8, the
-            fascial tissue had noticeably improved in mobility.
+            <strong>My notes:</strong> When I saw Linda at week 8, the fascial
+            tissue had noticeably improved in mobility.
           </p>
           <p>
-            The "bat wing" quality was significantly reduced. Her tricep engagement
-            was visibly stronger.
+            The "bat wing" quality was significantly reduced. Her tricep
+            engagement was visibly stronger.
           </p>
           <p>The tissue had quite literally woken back up.</p>
         </TextSection>
 
         {/* Case Example 2: Patricia */}
         <TextSection>
-          <h3>Case Example #2: Patricia, 67 – "I've Been Hiding My Arms for 15 Years"</h3>
+          <h3>
+            Case Example #2: Patricia, 67 – "I've Been Hiding My Arms for 15
+            Years"
+          </h3>
           <p>Patricia came to me devastated.</p>
-          <p>"I haven't worn a short-sleeved top in public since I was 52," she said. "Not to the beach. Not to family gatherings. I feel like I'm trapped."</p>
           <p>
-            She'd tried everything—tricep exercises, resistance bands, even those arm compression sleeves. Nothing worked.
+            "I haven't worn a short-sleeved top in public since I was 52," she
+            said. "Not to the beach. Not to family gatherings. I feel like I'm
+            trapped."
           </p>
           <p>
-            "The exercises made my arms stronger, but they still looked the same," she said. "Just... saggy. Crepey. Old."
+            She'd tried everything—tricep exercises, resistance bands, even
+            those arm compression sleeves. Nothing worked.
+          </p>
+          <p>
+            "The exercises made my arms stronger, but they still looked the
+            same," she said. "Just... saggy. Crepey. Old."
           </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 5
@@ -692,7 +712,8 @@ export default function Index() {
             </li>
             <li>
               <strong>Week 10:</strong> "I wore a sleeveless dress to my
-              granddaughter's birthday party. First time in 15 years. I didn't think about my arms once the entire day."
+              granddaughter's birthday party. First time in 15 years. I didn't
+              think about my arms once the entire day."
             </li>
           </ul>
         </TextSection>
@@ -717,8 +738,8 @@ export default function Index() {
         {/* Patricia Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> Patricia's case was particularly
-            moving because the psychological shift was as dramatic as the physical one.
+            <strong>My notes:</strong> Patricia's case was particularly moving
+            because the psychological shift was as dramatic as the physical one.
           </p>
           <p>This wasn't just about appearance—it was about freedom.</p>
           <p>
@@ -733,13 +754,18 @@ export default function Index() {
           </h3>
           <p>Monica walked into my office with a list.</p>
           <p>
-            She'd tried: special arm exercises from YouTube, firming creams, collagen supplements, three different personal trainers, and even considered arm lift surgery.
+            She'd tried: special arm exercises from YouTube, firming creams,
+            collagen supplements, three different personal trainers, and even
+            considered arm lift surgery.
           </p>
           <p>
-            "My surgeon quoted me $12,000," she said, nearly in tears. "I can't afford that. But I hate my arms so much I was considering it anyway."
+            "My surgeon quoted me $12,000," she said, nearly in tears. "I can't
+            afford that. But I hate my arms so much I was considering it
+            anyway."
           </p>
           <p>
-            Her arms weren't dramatically large—they were just loose, soft, and completely unresponsive to everything she'd tried.
+            Her arms weren't dramatically large—they were just loose, soft, and
+            completely unresponsive to everything she'd tried.
           </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 15 minutes per day, 3
@@ -751,8 +777,8 @@ export default function Index() {
           <ul>
             <li>
               <strong>Week 4:</strong> "I almost quit because I wasn't seeing
-              anything. Then I put on a dress I wore last month and the sleeves fit way
-              better."
+              anything. Then I put on a dress I wore last month and the sleeves
+              fit way better."
             </li>
             <li>
               <strong>Week 7:</strong> "My Pilates instructor asked what I
@@ -793,15 +819,16 @@ export default function Index() {
             critical.
           </p>
           <p>
-            Many women are trying to tone arms that aren't metabolically active enough to respond.
+            Many women are trying to tone arms that aren't metabolically active
+            enough to respond.
           </p>
           <p>
             Once we reactivated the tissue, her existing healthy habits finally
             had something to work with.
           </p>
           <p>
-            She improved another inch in her upper arms between weeks
-            8-12, despite no changes to diet or exercise.
+            She improved another inch in her upper arms between weeks 8-12,
+            despite no changes to diet or exercise.
           </p>
         </TextSection>
 
@@ -1028,9 +1055,7 @@ export default function Index() {
             specifically for readers of this article.
           </p>
           <p>
-            <b>
-              Instead of the standard $199, you can get ReSculpt for $119.
-            </b>
+            <b>Instead of the standard $199, you can get ReSculpt for $119.</b>
           </p>
           <p>That's $80 off, not because the device is discounted.</p>
           <p>
@@ -1053,9 +1078,7 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>
-              ReSculpt device ($119 instead of $199)
-            </li>
+            <li>ReSculpt device ($119 instead of $199)</li>
             <li>Free shipping</li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
@@ -1079,16 +1102,20 @@ export default function Index() {
         <TextSection>
           <h2>My Recommendation</h2>
           <p>
-            Here's what I want you to understand: You haven't failed. If you're reading this article, you've likely been very disciplined, consistent, and smart about your health.
+            Here's what I want you to understand: You haven't failed. If you're
+            reading this article, you've likely been very disciplined,
+            consistent, and smart about your health.
           </p>
           <p>
-            And this isn't about invalidating all that effort you've put in… it's about finally giving your arms the one thing they've been missing.
+            And this isn't about invalidating all that effort you've put in…
+            it's about finally giving your arms the one thing they've been
+            missing.
           </p>
+          <p>A way to participate in the work you're already doing.</p>
           <p>
-            A way to participate in the work you're already doing.
-          </p>
-          <p>
-            If your upper arms have been unresponsive despite your best efforts—if you've felt that frustrating sense of "I'm doing everything right, why isn't this area changing?"
+            If your upper arms have been unresponsive despite your best
+            efforts—if you've felt that frustrating sense of "I'm doing
+            everything right, why isn't this area changing?"
           </p>
           <p>
             <b>You don't need another arm exercise.</b>
