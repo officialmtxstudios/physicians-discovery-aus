@@ -31,8 +31,8 @@ export default function Index() {
         {/* Hero Image with responsive srcSet */}
         <img
           loading="lazy"
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06"
-          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=800"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=2000"
           className="hero-image"
           alt="Featured content"
         />
@@ -69,7 +69,7 @@ export default function Index() {
 
         {/* IMAGE 1 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7f552c4be5e4f02bc9ea8690b65a3df"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1d38e54c09c543a4af29a42fe56f3dd5?format=webp&width=800"
           alt="Dr. Sarah Mitchell - Board-Certified Physician"
         />
 
@@ -94,12 +94,6 @@ export default function Index() {
           </p>
         </TextSection>
 
-        {/* IMAGE 2 */}
-        <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F0d0c559792a34a65b8bbee4226244695"
-          alt="Medical measurement and body composition assessment"
-        />
-
         {/* Tissue Response Section */}
         <TextSection>
           <p>
@@ -107,6 +101,12 @@ export default function Index() {
             signals anymore.
           </p>
         </TextSection>
+
+        {/* IMAGE 2 */}
+        <ImageSection
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa4e77345e3ab4dae92c8d23b28ac1e10?format=webp&width=800"
+          alt="Medical measurement and body composition assessment"
+        />
 
         {/* Why Your Lower Belly Stopped Responding */}
         <TextSection>
