@@ -343,7 +343,8 @@ export default function Index() {
           </p>
           <p>
             And when she explained the technology that she read about
-            (Multi-Layer Stimulation Reset™) the mechanism made perfect sense.
+            (Multi-Layer Stimulation Reset) the mechanism made perfect
+            sense.
           </p>
         </TextSection>
 
@@ -358,13 +359,21 @@ export default function Index() {
             <b>Most treatments work on ONE layer:</b>
           </p>
           <ul>
-            <li>Creams work on skin (surface only)</li>
-            <li>Standard massage works on fascia (middle layer only)</li>
+            <li>
+              Creams work on skin (surface only)
+              <br />
+              <br />
+            </li>
+            <li>
+              Standard massage works on fascia (middle layer only)
+              <br />
+              <br />
+            </li>
             <li>Exercise works on muscle (deep layer only)</li>
           </ul>
           <p>
-            But <b>metabolic shutdown affects ALL THREE layers</b>{" "}
-            simultaneously.
+            But <b>metabolic shutdown affects ALL THREE layers</b>
+            &nbsp;simultaneously.
           </p>
           <p>
             The ReSculpt (the device Jennifer brought into my office that day)
