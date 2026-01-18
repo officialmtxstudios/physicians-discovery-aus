@@ -543,9 +543,9 @@ export default function Index() {
             <b>What changed?</b>
           </p>
           <p>
-            Advances in frequency modulation technology now allow multiple
-            tissue-specific frequencies to be delivered simultaneously in a
-            compact device.
+            Advances in technology now allow multiple frequencies designed
+            for different layers of tissue to be delivered simultaneously
+            in a single device.
           </p>
           <p>This wasn't possible even five years ago.</p>
           <p>
