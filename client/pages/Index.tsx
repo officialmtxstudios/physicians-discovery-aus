@@ -20,9 +20,9 @@ export default function Index() {
       <ArticleHeader />
 
       <ArticleHeadline
-        title="After 20 Years Treating Women's Hormonal Changes, I Finally Understand Why Lower Belly Fat Won't Budge—And How Women Are Losing Inches In Just 8 Weeks"
+        title="After 20 Years Treating Women's Hormonal Changes, I Finally Understand Why Upper Arm Fat Won't Budge—And How Women Are Losing Their Bat Wings In Just 8 Weeks Without Surgery or Endless Arm Exercises"
         subheadline=""
-        authorName="Sarah Mitchell, MD"
+        authorName="Sarah Mitchell, MD - Board-Certified Physician Studying Women's Metabolic Health"
         authorImage="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fb8545eecc8404b2d9d48161b6e183bed?format=webp&width=96"
         date="December 29, 2025"
       />
@@ -31,8 +31,8 @@ export default function Index() {
         {/* Hero Image with responsive srcSet */}
         <img
           loading="lazy"
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06"
-          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F6e455959008f43b088435199d9dc3d06"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=800"
+          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1bb0bc83114f4fbbb11ddc9afe0f7512?format=webp&width=2000"
           className="hero-image"
           alt="Featured content"
         />
@@ -50,7 +50,7 @@ export default function Index() {
             "evidence-based" protocol I recommended.
           </p>
           <p>
-            And yet, <strong>their lower belly pouch stayed fat</strong>.
+            And yet, <strong>their upper arms remained soft and jiggly</strong>.
           </p>
           <p>
             Month after month, they'd come back to my office, frustrated,
@@ -69,7 +69,7 @@ export default function Index() {
 
         {/* IMAGE 1 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa7f552c4be5e4f02bc9ea8690b65a3df"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1d38e54c09c543a4af29a42fe56f3dd5?format=webp&width=800"
           alt="Dr. Sarah Mitchell - Board-Certified Physician"
         />
 
@@ -81,11 +81,11 @@ export default function Index() {
             metabolic adaptation that <b>the pieces finally clicked</b>.
           </p>
           <p>
-            A colleague of mine (a researcher specializing in post-menopausal
+            A colleague of mine (a researcher specialising in post-menopausal
             tissue changes) presented findings that made my stomach drop.
           </p>
           <p>
-            "The lower abdominal region doesn't just store fat differently after
+            "The upper arm region doesn't just store fat differently after
             hormonal shifts," she explained.
           </p>
           <p>"It enters a state of metabolic hibernation."</p>
@@ -93,27 +93,22 @@ export default function Index() {
           <p>
             <b>Complete metabolic shutdown.</b>
           </p>
-        </TextSection>
-
-        {/* IMAGE 2 */}
-        <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F0d0c559792a34a65b8bbee4226244695"
-          alt="Medical measurement and body composition assessment"
-        />
-
-        {/* Tissue Response Section */}
-        <TextSection>
           <p>
             The tissue isn't ignoring your efforts. It literally can't hear the
             signals anymore.
           </p>
         </TextSection>
 
+        {/* IMAGE 2 */}
+        <ImageSection
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa4e77345e3ab4dae92c8d23b28ac1e10?format=webp&width=800"
+          alt="Medical measurement and body composition assessment"
+        />
+
         {/* Why Your Lower Belly Stopped Responding */}
         <TextSection>
           <h2>
-            Why Your Lower Belly Stopped Responding (And Why It's Not Your
-            Fault)
+            Why Your Upper Arms Stopped Responding (And Why It's Not Your Fault)
           </h2>
           <p>
             Here's what's actually happening in that area—and why everything
@@ -121,10 +116,9 @@ export default function Index() {
           </p>
           <p>
             When estrogen levels decline (whether from perimenopause, menopause,
-            or post-pregnancy hormonal shifts),{" "}
+            or age-related hormonal shifts),{" "}
             <b>
-              three critical changes occur simultaneously in lower abdominal
-              tissue
+              three critical changes occur simultaneously in upper arm tissue
             </b>
             :
           </p>
@@ -140,17 +134,17 @@ export default function Index() {
           </p>
           <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
           <p>
-            The connective tissue (fascia) that surrounds your abdominal muscles
-            loses elasticity.
+            The connective tissue (fascia) that surrounds your arm muscles loses
+            elasticity.
           </p>
           <p>It stops gliding properly.</p>
           <p>
             This creates a double problem: first, it traps fluid between the
-            layers, creating puffiness and swelling.
+            layers, creating the jiggly, wobbly quality of bat wings.
           </p>
           <p>
             Second, it physically prevents the underlying muscle from engaging
-            properly, so even when you do core work, the muscle can't fully
+            properly, so even when you do arm exercises, the muscle can't fully
             activate through the stuck fascia.
           </p>
           <h3>3. Cellular communication breaks down</h3>
@@ -163,8 +157,8 @@ export default function Index() {
 
         {/* IMAGE 4 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F06cf901212b0400c89f0093c78cd5f7c?format=webp&width=1200"
-          alt="Healthy tissue versus dormant tissue comparison diagrams"
+          src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F91fafb67cb444065a7ba85082e5378aa?alt=media&token=834efcc7-c989-40c3-b538-ddfbfa49c34c&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
+          alt="Cellular communication breakdown visualization"
         />
 
         {/* Result Section */}
@@ -175,7 +169,7 @@ export default function Index() {
             <b>You can do cardio.</b>
           </p>
           <p>
-            <b>You can do core work.</b>
+            <b>You can do arm exercises.</b>
           </p>
           <p>
             But that specific area remains unresponsive—because{" "}
@@ -200,12 +194,22 @@ export default function Index() {
           <p>But they can't "wake up" tissue that's already shut down.</p>
           <p>
             <b>
-              You'll lose fat everywhere else while that lower belly remains
+              You'll lose fat everywhere else while those upper arms remain
               unchanged
             </b>
             .
           </p>
-          <h3>Core exercises and planks?</h3>
+        </TextSection>
+
+        {/* IMAGE 5 */}
+        <ImageSection
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F13d695dc2d6c4eed8142d039c365b0d8?format=webp&width=800"
+          alt="Why arm exercises don't work on dormant tissue"
+        />
+
+        {/* Why Everything Failed Continued */}
+        <TextSection>
+          <h3>Arm exercises and tricep dips?</h3>
           <p>They strengthen the muscle underneath.</p>
           <p>
             But if the fascia above it is rigid and blood flow is restricted,
@@ -270,7 +274,7 @@ export default function Index() {
             professional-grade neuromuscular devices.
           </p>
           <p>
-            The women I worked with couldn't afford $200 AUD/week in perpetuity.
+            The women I worked with couldn't afford $150/week in perpetuity.
           </p>
           <p>
             Then, six months ago, a woman came to my office and showed me{" "}
@@ -278,26 +282,31 @@ export default function Index() {
           </p>
         </TextSection>
 
+        {/* IMAGE 6 */}
+        <ImageSection
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F098e35ffc33748ff96ea4e95da4a5b83?format=webp&width=800"
+          alt="Patient and physician consultation"
+        />
+
         {/* Dr. Mitchell Discovery */}
         <TextSection>
           <h2>"Dr. Mitchell, I Think I Finally Found Something That Works"</h2>
-          <p>Jennifer was 52.</p>
+          <p>Jennifer was 65.</p>
           <p>Post-menopausal.</p>
           <p>
             She'd been extremely frustrated—doing everything right, seeing
-            results everywhere except her lower belly pouch.
+            results everywhere except her upper arms.
           </p>
           <p>She walked into my office looking different.</p>
           <p>Not dramatically thinner.</p>
           <p>But tighter.</p>
-          <p>More contoured.</p>
+          <p>More toned.</p>
           <p>
-            The loose, bulging quality of her lower abdomen had visibly
-            improved.
+            The loose, sagging quality of her upper arms had visibly improved.
           </p>
           <p>"What did you do?" I asked immediately.</p>
           <p>She pulled out a small rose-gold device from her bag.</p>
-          <p>"I was skeptical," she admitted.</p>
+          <p>"I was sceptical," she admitted.</p>
           <p>
             "But I read about the technology—how it works on multiple tissue
             layers at once, not just the surface.
@@ -309,10 +318,10 @@ export default function Index() {
             lifestyle.
           </p>
           <p>"I started noticing changes around week three," she said.</p>
-          <p>"The area felt tighter when I engaged my core.</p>
+          <p>"The area felt tighter when I tensed my arm.</p>
           <p>In the sixth week, I could see the difference.</p>
           <p>
-            <b>After two months, my husband noticed</b> without me saying
+            <b>After two months, my daughter noticed</b> without me saying
             anything."
           </p>
         </TextSection>
@@ -401,8 +410,8 @@ export default function Index() {
             This is the same principle professional body sculpting clinics use.
           </p>
           <p>
-            They charge over $1,800 AUD per area because they understood the
-            signaling problem years before anyone else.
+            They charge $1,500+ per area because they understood the signaling
+            problem years before anyone else.
           </p>
           <p>
             But the technology has advanced enough that this level of
@@ -419,18 +428,13 @@ export default function Index() {
         {/* Why Clinics Charge So Much */}
         <TextSection>
           <h2>
-            Why Clinics Charge over $4,000 AUD For This (And Why You Don't Have
-            To)
+            Why Clinics Charge $3,000+ For This (And Why You Don't Have To)
           </h2>
           <p>Here's something most women don't realize:</p>
           <p>
             When you go to a professional body sculpting clinic and pay
-            $2,700-$5,400 AUD per treatment area, you need to understand what
-            you're actually paying for.
-          </p>
-          <p>
-            You're not paying for them to "work harder" on your fat or "burn
-            more calories."
+            $2,000-$4,000 per treatment area, you're not paying for them to
+            "work harder" on your fat or "burn more calories."
           </p>
           <p>
             <b>You're paying for tissue re-signaling.</b>
@@ -454,7 +458,7 @@ export default function Index() {
 
         {/* IMAGE 8 */}
         <ImageSection
-          src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F4445763fa7864ea9b8265bbcd724e0a4?alt=media&token=024edbd1-f2af-4d78-8959-d9cd864baceb&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fdec4597a8ce54b489867f2526e1bba41?format=webp&width=800"
           alt="Professional body sculpting clinic with advanced equipment"
         />
 
@@ -474,8 +478,8 @@ export default function Index() {
             .
           </p>
           <p>
-            It was expensive, immobile, and required trained operators and
-            multiple sessions at $500-$2,000 AUD each.
+            It was expensive, immobile, requiring trained operators and multiple
+            sessions at $500-$1,500 each.
           </p>
           <p>
             But advances in tissue-penetration technology and frequency
@@ -540,7 +544,7 @@ export default function Index() {
             </b>
             , the same mechanism clinics use.
           </p>
-          <p>Is it exactly identical to a $72,000 AUD clinic machine? No.</p>
+          <p>Is it exactly identical to a $60,000 clinic machine? No.</p>
           <p>
             But does it deliver the core mechanism (multi-layer tissue
             signaling) that makes clinic treatments effective?
@@ -557,12 +561,12 @@ export default function Index() {
           <p>It's the same science, evolved for accessibility.</p>
         </TextSection>
 
-        {/* IMAGE - Before What I Started Seeing Repeatedly */}
+        {/* IMAGE 8 - Before What I Started Seeing Repeatedly */}
         <div className="w-full bg-white py-4 sm:py-6 px-4 sm:px-6 md:flex md:justify-center">
           <img
             loading="lazy"
-            src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbeaa732e2b924c2a95f0fa4581e0244f?alt=media&token=9e27985e-7950-4658-b834-a78d99c8dfef&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
-            alt="Patient testimonial results"
+            src="https://cdn.builder.io/o/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F38b5f427bcbe4115aa981017dfe9dfcc?alt=media&token=17fa9912-ff95-4145-985a-e69d08848335&apiKey=310e5dbc08df4ac4b4ffe8becccf5fde"
+            alt="Before and after patient results"
             style={{
               aspectRatio: "1",
               objectFit: "cover",
@@ -589,7 +593,7 @@ export default function Index() {
           </p>
           <p>
             <b>So I started recommending it to other women</b> who fit the same
-            profile: doing everything right, but that lower belly remained
+            profile: doing everything right, but that upper arms remained
             stubbornly unresponsive.
           </p>
           <p>
@@ -604,84 +608,90 @@ export default function Index() {
 
         {/* Case Example 1: Linda */}
         <TextSection>
-          <h3>Case Example #1: Linda, 49 – Post-Hysterectomy "Pooch"</h3>
-          <p>Linda had a full hysterectomy at 46.</p>
+          <h3>
+            Case Example #1: Linda, 62 – The "Bat Wings That Appeared Overnight"
+          </h3>
+          <p>Linda had always been slim and active.</p>
           <p>
-            Within six months, she developed what she called "the pooch that
-            appeared out of nowhere."
+            But around age 58, during menopause, her upper arms changed
+            seemingly overnight.
           </p>
           <p>
-            She'd always been active—taught yoga, ate a predominantly
-            plant-based diet.
+            "I'd wave goodbye to someone and feel my arm keep moving," she told
+            me, mortified. "I started wearing cardigans in 35-degree heat just
+            to hide them."
           </p>
           <p>
-            But after surgery, her lower abdomen became soft, protruding, and
-            completely unresponsive to her normal routine.
+            She'd been doing arm exercises with light weights three times per
+            week. Her trainer kept telling her to "build more muscle."
           </p>
-          <p>"I can hold a plank for two minutes," she told me, frustrated.</p>
-          <p>"But my stomach still looks like this.</p>
-          <p>It doesn't make sense."</p>
+          <p>But the sagging skin and jiggle only seemed to get worse.</p>
+          <p>"I can feel the muscle underneath," she said, frustrated.</p>
+          <p>
+            "But there's all this loose, wobbly stuff on top that won't budge."
+          </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 4
-            days per week, while continuing her regular yoga practice and diet.
+            days per week, while continuing her regular exercise routine.
           </p>
           <p>
             <strong>Timeline:</strong>
           </p>
           <ul>
             <li>
-              <strong>Week 2:</strong> "The area feels tighter when I engage my
-              core."
+              <strong>Week 2:</strong> "The area feels tighter when I flex my
+              arm."
             </li>
             <li>
-              <strong>Week 5:</strong> "My yoga pants fit better. The bulge
-              isn't pushing against the waistband anymore."
+              <strong>Week 5:</strong> "My sister asked if I'd had surgery. I
+              told her no, but I could see what she meant. The hanging part is
+              less... droopy."
             </li>
             <li>
-              <strong>Week 8:</strong> "I measured. I'm down 2.5 inches around
-              my lower abdomen. Same weight. Same routine. Just... tighter."
+              <strong>Week 8:</strong> "I measured. I'm down 2 inches around my
+              upper arms. Same weight. Same routine. Just... firmer."
             </li>
           </ul>
         </TextSection>
 
-        {/* IMAGE 9 */}
+        {/* IMAGE 10 */}
         <ImageSection
-          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fbfdd3f11f9e745df9e6c9e2633e0e79b"
-          alt="Woman in warrior pose demonstrating core strength and engagement"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F86f9e78a67024a0d8bccf81185e00a50?format=webp&width=800"
+          alt="Linda's case example and results"
         />
 
         {/* Linda Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> When I talked with Linda at week 8, the
-            fascial tissue had noticeably improved in mobility.
+            <strong>My notes:</strong> When I saw Linda at week 8, the fascial
+            tissue had noticeably improved in mobility.
           </p>
           <p>
-            The "stuck" quality was gone. Her transverse abdominis engagement
-            was visibly stronger.
+            The "bat wing" quality was significantly reduced. Her tricep
+            engagement was visibly stronger.
           </p>
           <p>The tissue had quite literally woken back up.</p>
         </TextSection>
 
         {/* Case Example 2: Patricia */}
         <TextSection>
-          <h3>Case Example #2: Patricia, 56 – "Menopause Belly"</h3>
-          <p>Patricia came to me two years into menopause, devastated.</p>
-          <p>"I gained 15 pounds, all in my stomach," she said.</p>
-          <p>"I've lost 12 of those pounds.</p>
+          <h3>
+            Case Example #2: Patricia, 67 – "I've Been Hiding My Arms for 15
+            Years"
+          </h3>
+          <p>Patricia came to me devastated.</p>
           <p>
-            But my belly looks exactly the same as when I was 15 pounds
-            heavier."
+            "I haven't worn a short-sleeved top in public since I was 52," she
+            said. "Not to the beach. Not to family gatherings. I feel like I'm
+            trapped."
           </p>
           <p>
-            She'd been walking daily, tracking calories, doing everything I
-            recommended.
+            She'd tried everything—tricep exercises, resistance bands, even
+            those arm compression sleeves. Nothing worked.
           </p>
-          <p>Her labs were perfect.</p>
-          <p>Her weight was healthy.</p>
           <p>
-            But that lower belly pouch—the classic "menopause belly"—wouldn't
-            budge.
+            "The exercises made my arms stronger, but they still looked the
+            same," she said. "Just... saggy. Crepey. Old."
           </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 10 minutes per day, 5
@@ -693,17 +703,17 @@ export default function Index() {
           <ul>
             <li>
               <strong>Week 3:</strong> "I don't see much yet, but it feels
-              firmer. Like there's actually muscle under there now."
+              firmer. Like there's actually muscle definition under there now."
             </li>
             <li>
-              <strong>Week 6:</strong> "My husband said, 'Your stomach looks
-              flatter.' I thought he was being nice. Then I looked in the
-              mirror. He was right."
+              <strong>Week 6:</strong> "My husband said, 'Your arms look
+              different.' I thought he was being nice. Then I looked in the
+              mirror wearing a singlet. He was right."
             </li>
             <li>
-              <strong>Week 10:</strong> "I'm wearing jeans I haven't been able
-              to button in three years. I haven't lost any more weight. The
-              shape just changed..."
+              <strong>Week 10:</strong> "I wore a sleeveless dress to my
+              granddaughter's birthday party. First time in 15 years. I didn't
+              think about my arms once the entire day."
             </li>
           </ul>
         </TextSection>
@@ -711,7 +721,7 @@ export default function Index() {
         {/* IMAGE 11 - Patricia's case example and results */}
         <img
           loading="lazy"
-          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F31390673a70445caad4c62f2ba015c44"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F1033a1ad4f02404a8c74eaeb91218e9e?format=webp&width=800"
           alt="Patricia's case example and results"
           style={{
             aspectRatio: "1.78",
@@ -728,38 +738,34 @@ export default function Index() {
         {/* Patricia Notes */}
         <TextSection>
           <p>
-            <strong>My notes:</strong> Patricia's case was particularly
-            interesting because her weight remained stable throughout.
+            <strong>My notes:</strong> Patricia's case was particularly moving
+            because the psychological shift was as dramatic as the physical one.
           </p>
-          <p>This wasn't fat loss—it was tissue reactivation.</p>
+          <p>This wasn't just about appearance—it was about freedom.</p>
           <p>
-            The area became more metabolically active, the fascia regained
-            mobility, and the muscle was able to properly engage again.
-          </p>
-          <p>
-            The "pouch" appearance diminished significantly without any weight
-            change.
+            The tissue reactivation gave her back the confidence to stop hiding.
           </p>
         </TextSection>
 
         {/* Case Example 3: Monica */}
         <TextSection>
           <h3>
-            Case Example #3: Monica, 47 – The "I've Tried Everything" Case
+            Case Example #3: Monica, 59 – The "I've Tried Everything" Case
           </h3>
           <p>Monica walked into my office with a list.</p>
           <p>
-            She'd tried: keto, intermittent fasting, Pilates, barre classes,
-            waist trainers, three different "belly-blasting" supplements, and
-            two rounds of CoolSculpting on her lower abdomen.
+            She'd tried: special arm exercises from YouTube, firming creams,
+            collagen supplements, three different personal trainers, and even
+            considered arm lift surgery.
           </p>
           <p>
-            "The CoolSculpting destroyed my savings and did absolutely nothing,"
-            she said, on the verge of tears.
+            "My surgeon quoted me $12,000," she said, nearly in tears. "I can't
+            afford that. But I hate my arms so much I was considering it
+            anyway."
           </p>
-          <p>"I don't understand what I'm doing wrong."</p>
           <p>
-            But at this point I already knew: she wasn't doing anything wrong.
+            Her arms weren't dramatically large—they were just loose, soft, and
+            completely unresponsive to everything she'd tried.
           </p>
           <p>
             <strong>Her approach:</strong> Used ReSculpt 15 minutes per day, 3
@@ -771,12 +777,12 @@ export default function Index() {
           <ul>
             <li>
               <strong>Week 4:</strong> "I almost quit because I wasn't seeing
-              anything. Then I put on a dress I wore last month and it fit way
-              better around my stomach."
+              anything. Then I put on a dress I wore last month and the sleeves
+              fit way better."
             </li>
             <li>
               <strong>Week 7:</strong> "My Pilates instructor asked what I
-              changed. She said my core engagement during class is noticeably
+              changed. She said my arm definition during class is noticeably
               stronger."
             </li>
             <li>
@@ -787,11 +793,11 @@ export default function Index() {
           </ul>
         </TextSection>
 
-        {/* IMAGE 13 - Monica's case example and results */}
+        {/* IMAGE 9 - Monica's case example and results */}
         <div className="image-section">
           <img
             loading="lazy"
-            src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F35b8f559a7824701842ff7a1707bc62d?format=webp&width=800"
+            src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fa55d724d6cb342099e242301fb3d9c2b?format=webp&width=800"
             alt="Monica's case example and results"
             style={{
               aspectRatio: "1.78",
@@ -813,16 +819,16 @@ export default function Index() {
             critical.
           </p>
           <p>
-            Many women are trying to burn fat in an area that's not
-            metabolically active enough to release it.
+            Many women are trying to tone arms that aren't metabolically active
+            enough to respond.
           </p>
           <p>
             Once we reactivated the tissue, her existing healthy habits finally
             had something to work with.
           </p>
           <p>
-            She lost an additional 1.5 inches in her lower abdomen between weeks
-            8-12, despite no changes to diet or exercise.
+            She improved another inch in her upper arms between weeks 8-12,
+            despite no changes to diet or exercise.
           </p>
         </TextSection>
 
@@ -1049,12 +1055,9 @@ export default function Index() {
             specifically for readers of this article.
           </p>
           <p>
-            <b>
-              Instead of the standard $169 AUD, you can get ReSculpt for just
-              $119 AUD.
-            </b>
+            <b>Instead of the standard $199, you can get ReSculpt for $119.</b>
           </p>
-          <p>That's $50 off, not because the device is discounted.</p>
+          <p>That's $80 off, not because the device is discounted.</p>
           <p>
             But because Ovaliss agreed that women dealing with metabolic tissue
             dormancy shouldn't have to pay full price.
@@ -1075,9 +1078,7 @@ export default function Index() {
             <strong>Here's what you get:</strong>
           </p>
           <ul>
-            <li>
-              ReSculpt device ($119 <strike>$169</strike> AUD)
-            </li>
+            <li>ReSculpt device ($119 instead of $199)</li>
             <li>Free shipping</li>
             <li>
               100-day money-back guarantee (full reactivation trial period)
@@ -1101,17 +1102,26 @@ export default function Index() {
         <TextSection>
           <h2>My Recommendation</h2>
           <p>
-            If your lower belly has been unresponsive despite your best efforts.
+            Here's what I want you to understand: You haven't failed. If you're
+            reading this article, you've likely been very disciplined,
+            consistent, and smart about your health.
           </p>
           <p>
-            If you've felt that frustrating sense of "I'm doing everything
-            right, why isn't this area changing?"
+            And this isn't about invalidating all that effort you've put in…
+            it's about finally giving your arms the one thing they've been
+            missing.
+          </p>
+          <p>A way to participate in the work you're already doing.</p>
+          <p>
+            If your upper arms have been unresponsive despite your best
+            efforts—if you've felt that frustrating sense of "I'm doing
+            everything right, why isn't this area changing?"
           </p>
           <p>
-            <b>You don't need another diet.</b>
+            <b>You don't need another arm exercise.</b>
           </p>
           <p>
-            <b>You don't need more cardio.</b>
+            <b>You don't need more dieting.</b>
           </p>
           <p>
             <b>You don't need to "try harder."</b>
@@ -1122,8 +1132,8 @@ export default function Index() {
             comfort of your own home, on your own schedule.
           </p>
           <p>If it works, you'll know.</p>
-          <p>The area will start feeling different during core engagement.</p>
-          <p>Then you'll start seeing changes in how clothes fit.</p>
+          <p>The area will start feeling different during arm flexion.</p>
+          <p>Then you'll start seeing changes in how sleeves fit.</p>
           <p>Then you'll see visible contour improvement.</p>
           <p>
             <b>If it doesn't work, you return it.</b>
@@ -1131,20 +1141,17 @@ export default function Index() {
           <p>No risk.</p>
           <p>
             But based on what I've seen in my office, and based on the mechanism
-            itself...
-          </p>
-          <p>
-            I believe any woman dealing with post-hormonal lower belly
+            itself, I believe any woman dealing with post-hormonal upper arm
             resistance will see meaningful improvement.
           </p>
           <p>Because the problem was never willpower.</p>
           <p>It was tissue that needed to be brought back online.</p>
         </TextSection>
 
-        {/* IMAGE 16 - Final message and encouragement */}
+        {/* IMAGE 12 - Final message and encouragement */}
         <img
           loading="lazy"
-          srcSet="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=100 100w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=200 200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=400 400w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=800 800w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=1200 1200w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=1600 1600w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558?width=2000 2000w, https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2F92fb8724eac14e2ab0144f9fac058558"
+          src="https://cdn.builder.io/api/v1/image/assets%2F310e5dbc08df4ac4b4ffe8becccf5fde%2Fe073678b776c47689dfb92290b348389?format=webp&width=800"
           alt="Final message and encouragement"
           style={{
             aspectRatio: "1.78",
