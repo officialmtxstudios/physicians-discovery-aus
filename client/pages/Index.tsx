@@ -115,10 +115,11 @@ export default function Index() {
             you've tried has failed:
           </p>
           <p>
-            When estrogen levels decline (whether from perimenopause, menopause,
-            or age-related hormonal shifts),{" "}
+            When estrogen levels decline (whether from menopause, or
+            age-related hormonal shifts),{" "}
             <b>
-              three critical changes occur simultaneously in upper arm tissue
+              &nbsp;three critical changes occur simultaneously in upper
+              arm tissue
             </b>
             :
           </p>
@@ -128,8 +129,8 @@ export default function Index() {
             significantly reduced metabolic activity.
           </p>
           <p>
-            The fat cells in this region essentially go dormant, and they stop
-            responding to the hormonal signals that normally trigger fat
+            The fat cells in this region essentially go to sleep, and they
+            stop responding to the hormonal signals that normally trigger fat
             release.
           </p>
           <h3>2. Fascial tissue becomes rigid and "stuck"</h3>
@@ -149,8 +150,8 @@ export default function Index() {
           </p>
           <h3>3. Cellular communication breaks down</h3>
           <p>
-            The cells in this area stop responding to insulin, cortisol, and
-            catecholamines (the hormones that regulate fat storage and release).
+            The cells in this area stop responding to insulin, cortisol,
+            and the other hormones that regulate fat storage and release).
           </p>
           <p>It's like the cellular "phone lines" have been disconnected.</p>
         </TextSection>
@@ -166,10 +167,12 @@ export default function Index() {
           <p>The result?</p>
           <p>You can eat in a calorie deficit.</p>
           <p>
-            <b>You can do cardio.</b>
+            <b><span style="font-weight: normal;">You can do cardio.</span></b>
           </p>
           <p>
-            <b>You can do arm exercises.</b>
+            <b><span style="font-weight: normal;">
+              You can do arm exercises.
+            </span></b>
           </p>
           <p>
             But that specific area remains unresponsive—because{" "}
