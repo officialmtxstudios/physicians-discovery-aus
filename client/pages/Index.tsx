@@ -322,11 +322,7 @@ export default function Index() {
           </p>
           <p>"I started noticing changes around week three," she said.</p>
           <p>"The area felt tighter when I tensed my arm.</p>
-          <p>In the sixth week, I could see the difference.</p>
-          <p>
-            <b>After two months, my daughter noticed</b> without me saying
-            anything."
-          </p>
+          <p>In the sixth week, I could see the difference."</p>
         </TextSection>
 
         {/* IMAGE 6 */}
