@@ -480,8 +480,8 @@ export default function Index() {
           <p>
             Ten years ago,{" "}
             <b>
-              this level of multi-layer stimulation required clinic-grade
-              equipment
+              &nbsp;this level of multi-layer stimulation required
+              clinic-grade equipment
             </b>
             .
           </p>
@@ -490,8 +490,8 @@ export default function Index() {
             sessions at $500-$1,500 each.
           </p>
           <p>
-            But advances in tissue-penetration technology and frequency
-            modulation have changed everything.
+            But advances in tissue-penetration technology have changed
+            everything.
           </p>
           <p>
             <b>
