@@ -1081,11 +1081,12 @@ export default function Index() {
         <TextSection>
           <h2>A Note on Availability (And Why I'm Sharing This)</h2>
           <p>
-            After seeing consistent results with ReSculpt across multiple women,{" "}
+            After seeing consistent results with ReSculpt across multiple
+            women,
             <b>
-              I reached out to Ovaliss (the company behind the device) and asked
-              if they'd be willing to offer a special arrangement for women
-              reading this article
+              &nbsp;I reached out to Ovaliss (the company behind the
+              device) and asked if they'd be willing to offer a special
+              arrangement for women reading this article
             </b>
             .
           </p>
